@@ -78,17 +78,17 @@ def main():
             marker= ".")
 
     #-------------------------------------------
-    #For Debugging Purposes:
+    #See Data Points:
 
     #print(*x, sep = ', ')
     #print(*y, sep = ', ')
 
-    c = 0
+    #c = 0
 
-    for j in x:
-            print("(", j, ",", y[c], ")")
+    #for j in x:
+            #print("(", j, ",", y[c], ")")
 
-            c += 1
+            #c += 1
     
 
     #-------------------------------------------
